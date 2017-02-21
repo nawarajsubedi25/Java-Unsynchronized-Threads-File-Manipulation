@@ -1,0 +1,11 @@
+Thread[0]: Line[1]:The quick brown fox
+Thread[1]: Line[1]:Do what you love,
+Thread[2]: Line[1]:Six of one;
+Thread[3]: Line[1]:I like the leaves
+Thread[0]: Line[2]:jumped over the lazy dog.
+Thread[1]: Line[2]:love what you do,
+Thread[2]: Line[2]:a dozen of the other.
+Thread[3]: Line[2]:that fall from the trees.
+Thread[1]: Line[3]:and deliver more than you promise.
+Thread[3]: Line[3]:The reds, greens, and browns
+Thread[3]: Line[4]:we rake into a mound.

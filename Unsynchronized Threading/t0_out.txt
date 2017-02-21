@@ -1,0 +1,2 @@
+Thread[0]: Line[1]:The quick brown fox
+Thread[0]: Line[2]:jumped over the lazy dog.
